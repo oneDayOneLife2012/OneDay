@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://oneDay.github.io</id>
+    <id>https://onedayonelife2012.github.io/OneDay</id>
     <title>OneDay</title>
-    <updated>2021-12-11T09:23:07.473Z</updated>
+    <updated>2021-12-11T09:56:07.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://oneDay.github.io"/>
-    <link rel="self" href="https://oneDay.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://oneDay.github.io/images/avatar.png</logo>
-    <icon>https://oneDay.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://onedayonelife2012.github.io/OneDay"/>
+    <link rel="self" href="https://onedayonelife2012.github.io/OneDay/atom.xml"/>
+    <logo>https://onedayonelife2012.github.io/OneDay/images/avatar.png</logo>
+    <icon>https://onedayonelife2012.github.io/OneDay/favicon.ico</icon>
     <rights>All rights reserved 2021, OneDay</rights>
     <entry>
         <title type="html"><![CDATA[Test]]></title>
-        <id>https://oneDay.github.io/test/</id>
-        <link href="https://oneDay.github.io/test/">
+        <id>https://onedayonelife2012.github.io/OneDay/test/</id>
+        <link href="https://onedayonelife2012.github.io/OneDay/test/">
         </link>
         <updated>2021-12-11T09:22:52.000Z</updated>
-        <content type="html"><![CDATA[<p>Test</p>
-]]></content>
     </entry>
 </feed>
